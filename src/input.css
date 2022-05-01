@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.show-links{
+    position: absolute;
+    z-index: 10;
+    
+}
